@@ -1,1 +1,1 @@
-# Lidar-Simulation-SLAM
+# Lidar-Simulator-SLAM
